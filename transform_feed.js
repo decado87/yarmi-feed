@@ -60,7 +60,7 @@ async function transformFeed() {
 
     if (farba    && !item['g:color'])    item['g:color']    = farba.split(/,\s*/).slice(0, 3).join('/');
     if (pohlavie && !item['g:gender'])   item['g:gender']   = GENDER_MAP[pohlavie] || 'female';
-    if (material && !item['g:material']) item['g:material'] = material;
+    if (material && !item['g:material']) item['g:material'] = material.split(/,\s*/).slice(0, 3).join('/');
     if (vzor     && !item['g:pattern'])  item['g:pattern']  = vzor;
 
     if (!item['g:age_group'])  item['g:age_group']  = 'adult';
