@@ -76,7 +76,10 @@ async function transformFeed() {
     suppressEmptyNode: true,
   });
 
-  const outputXml = '<?xml version="1.0" encoding="UTF-8"?>\n' + builder.build(parsed);
+  const built = builder.build(parsed);
+  // Odstráň prípadnú existujúcu XML deklaráciu a pridaj čistú na začiatok
+  const stripped = built.replace(/<\?xml[^?]*\?>\s*/i, '');
+  const outputXml = '<?xml version="1.0" encoding="UTF-8"?>\n' + stripped;
 
   fs.mkdirSync('docs', { recursive: true });
   fs.writeFileSync('docs/feed.xml', outputXml, 'utf-8');
