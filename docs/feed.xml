@@ -9756,7 +9756,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
@@ -10370,12 +10370,12 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_value>Letné</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Doplnková farba</g:attribute_name>
         <g:attribute_value>Modrá, Ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
@@ -11360,7 +11360,7 @@ Dĺžka rukáva: 56 cm]]>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>449</g:item_group_id>
-      <g:color>Čierna, béžová</g:color>
+      <g:color>Čierna/béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester, Viskóza, Elastan</g:material>
       <g:age_group>adult</g:age_group>
@@ -11461,7 +11461,7 @@ dĺžka rukáva: 56 cm]]>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>452</g:item_group_id>
-      <g:color>Oranžová, Ružová, Zelená, Béžová</g:color>
+      <g:color>Oranžová/Ružová/Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester, Viskóza, Elastan</g:material>
       <g:age_group>adult</g:age_group>
@@ -11608,16 +11608,16 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>33.90 EUR</g:price>
@@ -11684,16 +11684,16 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>33.90 EUR</g:price>
@@ -11770,16 +11770,16 @@ Modelka meria 164 cm a má na sebe univerzálnu veľkosť one size.
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
@@ -12008,7 +12008,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>470</g:item_group_id>
-      <g:color>Čierna, ružová, modrá, žltá, zelená</g:color>
+      <g:color>Čierna/ružová/modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza</g:material>
       <g:age_group>adult</g:age_group>
@@ -12081,7 +12081,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>470</g:item_group_id>
-      <g:color>Čierna, ružová, modrá, žltá, zelená</g:color>
+      <g:color>Čierna/ružová/modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza</g:material>
       <g:age_group>adult</g:age_group>
@@ -12119,10 +12119,6 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
       </g:product_detail>
@@ -12133,6 +12129,10 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
       <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Čierna, béžová, zlatá</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>31.90 EUR</g:price>
@@ -12150,7 +12150,7 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>473</g:item_group_id>
-      <g:color>Čierna, béžová, zlatá</g:color>
+      <g:color>Čierna/béžová/zlatá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza</g:material>
       <g:age_group>adult</g:age_group>
@@ -12197,16 +12197,16 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Svetlohnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza, ľan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
@@ -12271,16 +12271,16 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Svetlohnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza, ľan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
@@ -12345,16 +12345,16 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Svetlohnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza, ľan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
@@ -12417,16 +12417,16 @@ celková dĺžka: 116 cm]]>
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Ľan, bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
@@ -12495,12 +12495,12 @@ Celková dĺžka: 116 cm
         <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Taliansko móda</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Ľan, bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
