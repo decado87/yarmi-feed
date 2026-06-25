@@ -1,0 +1,35 @@
+name: Update Google Shopping Feed
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # každú noc o 2:00 UTC
+  workflow_dispatch:        # možnosť spustiť ručne
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Transform feed
+        run: node transform_feed.js
+
+      - name: Commit and push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add docs/feed.xml
+          git diff --staged --quiet || git commit -m "Update feed $(date +%Y-%m-%d)"
+          git push

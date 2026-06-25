@@ -1,0 +1,12 @@
+{
+  "name": "yarmi-feed-transformer",
+  "version": "1.0.0",
+  "description": "Google Shopping feed transformer for YARMI",
+  "main": "transform_feed.js",
+  "scripts": {
+    "transform": "node transform_feed.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.0"
+  }
+}
