@@ -2,7 +2,7 @@ name: Update Google Shopping Feed
 
 on:
   schedule:
-    - cron: '0 14  * * *'   # každú noc o 2:00 UTC
+    - cron: '0 15  * * *'   # každú noc o 2:00 UTC
   workflow_dispatch:        # možnosť spustiť ručne
 
 jobs:

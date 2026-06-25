@@ -58,7 +58,7 @@ async function transformFeed() {
     const material = getDetail(details, 'Materiál') || getDetail(details, 'Material');
     const vzor     = getDetail(details, 'Vzor');
 
-    if (farba    && !item['g:color'])    item['g:color']    = farba;
+    if (farba    && !item['g:color'])    item['g:color']    = farba.split(/,\s*/).slice(0, 3).join('/');
     if (pohlavie && !item['g:gender'])   item['g:gender']   = GENDER_MAP[pohlavie] || 'female';
     if (material && !item['g:material']) item['g:material'] = material;
     if (vzor     && !item['g:pattern'])  item['g:pattern']  = vzor;
