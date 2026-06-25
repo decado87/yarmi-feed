@@ -853,7 +853,7 @@ Veľkosť: One Size
       <g:item_group_id>110</g:item_group_id>
       <g:color>Krémová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -936,7 +936,7 @@ One Size
       <g:item_group_id>113</g:item_group_id>
       <g:color>Fialová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskoza 65%, nylon 30%, elastan 5%</g:material>
+      <g:material>Viskoza 65%/nylon 30%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1008,7 +1008,7 @@ Veľkosť: One Size
       <g:item_group_id>116</g:item_group_id>
       <g:color>Khaki</g:color>
       <g:gender>female</g:gender>
-      <g:material>80% viskóza, 15 % nylón, elastan 5%</g:material>
+      <g:material>80% viskóza/15 % nylón/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1082,7 +1082,7 @@ Mikina dĺžka ramien: 50 cm
       <g:item_group_id>119</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>40% polyester, viskóza 55%, elastan 5%</g:material>
+      <g:material>40% polyester/viskóza 55%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1159,7 +1159,7 @@ One Size
       <g:item_group_id>122</g:item_group_id>
       <g:color>Červená</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester 95%, elastan 5%</g:material>
+      <g:material>Polyester 95%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1231,7 +1231,7 @@ Veľkosť: One Size
       <g:item_group_id>125</g:item_group_id>
       <g:color>Krémová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1305,7 +1305,7 @@ Veľkosť: One Size
       <g:item_group_id>128</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester 95%, elastan 5%</g:material>
+      <g:material>Polyester 95%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1379,7 +1379,7 @@ Veľkosť: One Size
       <g:item_group_id>131</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1450,7 +1450,7 @@ Pás: 35–50 cm
       <g:item_group_id>164</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza 55%, polyester 40%, elastan 5%</g:material>
+      <g:material>Viskóza 55%/polyester 40%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1521,7 +1521,7 @@ Veľkosť: One Size
       <g:item_group_id>167</g:item_group_id>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza 55%, polyester 45%</g:material>
+      <g:material>Viskóza 55%/polyester 45%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1591,7 +1591,7 @@ Veľkosť: One Size
       <g:item_group_id>170</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester 95%, elastan 5%</g:material>
+      <g:material>Polyester 95%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1660,7 +1660,7 @@ Veľkosť: One Size
       <g:item_group_id>173</g:item_group_id>
       <g:color>Červená</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza 55%, polyester 40%, elastan 5%</g:material>
+      <g:material>Viskóza 55%/polyester 40%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1881,7 +1881,7 @@ Dĺžka vzadu: 70 cm]]>
       <g:item_group_id>192</g:item_group_id>
       <g:color>Červená</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -1948,7 +1948,7 @@ Prsia – šírka: 62 cm
       <g:item_group_id>195</g:item_group_id>
       <g:color>Fialová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2019,7 +2019,7 @@ Prsia – šírka: 62 cm
       <g:item_group_id>198</g:item_group_id>
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2094,7 +2094,7 @@ Prsia – šírka: 70 cm
       <g:item_group_id>201</g:item_group_id>
       <g:color>Khaki</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza 95%, elastan 5%</g:material>
+      <g:material>Viskóza 95%/elastan 5%</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2170,7 +2170,7 @@ Prsia – šírka: 70 cm
       <g:item_group_id>204</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2246,7 +2246,7 @@ Veľkosť: One Size
       <g:item_group_id>207</g:item_group_id>
       <g:color>Tmavo-modrá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2328,7 +2328,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:item_group_id>290</g:item_group_id>
       <g:color>Bordová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2410,7 +2410,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:item_group_id>290</g:item_group_id>
       <g:color>Bordová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2492,7 +2492,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:item_group_id>290</g:item_group_id>
       <g:color>Bordová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2572,7 +2572,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:item_group_id>293</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2652,7 +2652,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:item_group_id>293</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2732,7 +2732,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:item_group_id>293</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2815,7 +2815,7 @@ M/L • dĺžka: 104 cm • šírka pásu: 34–46 cm x 2 • šírka bokov: 48 
       <g:item_group_id>296</g:item_group_id>
       <g:color>Staro-ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -2898,7 +2898,7 @@ M/L • dĺžka: 104 cm • šírka pásu: 34–46 cm x 2 • šírka bokov: 48 
       <g:item_group_id>296</g:item_group_id>
       <g:color>Staro-ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3060,7 +3060,7 @@ M/L dĺžka 41 cm šírka pod pazuchami 34–50 cm x 2 dĺžka rukáva 24 cm
       <g:item_group_id>302</g:item_group_id>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3144,7 +3144,7 @@ M/L dĺžka 41 cm šírka pod pazuchami 34–50 cm x 2 dĺžka rukáva 24 cm
       <g:item_group_id>302</g:item_group_id>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3286,7 +3286,7 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       <g:item_group_id>308</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3372,7 +3372,7 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       <g:item_group_id>308</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3462,7 +3462,7 @@ Výška modelky je &nbsp;173 cm.&nbsp;Na sebe má veľkosť One size.]]>
       <g:item_group_id>311</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3576,7 +3576,7 @@ dĺžka: 37 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>314</g:item_group_id>
       <g:color>Béžová</g:color>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3690,7 +3690,7 @@ dĺžka: 37 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>314</g:item_group_id>
       <g:color>Béžová</g:color>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3777,7 +3777,7 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
       <g:item_group_id>317</g:item_group_id>
       <g:color>Vzor panter</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3864,7 +3864,7 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
       <g:item_group_id>317</g:item_group_id>
       <g:color>Vzor panter</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -3959,7 +3959,7 @@ L/XL
       <g:item_group_id>320</g:item_group_id>
       <g:color>Bordová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4054,7 +4054,7 @@ L/XL
       <g:item_group_id>320</g:item_group_id>
       <g:color>Bordová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4149,7 +4149,7 @@ L/XL
       <g:item_group_id>320</g:item_group_id>
       <g:color>Bordová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4228,7 +4228,7 @@ dĺžka rukáva: 70 cm]]>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>323</g:item_group_id>
       <g:color>Ružová</g:color>
-      <g:material>70% viskóza, 30% elastan</g:material>
+      <g:material>70% viskóza/30% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4307,7 +4307,7 @@ dĺžka rukáva: 70 cm]]>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>323</g:item_group_id>
       <g:color>Ružová</g:color>
-      <g:material>70% viskóza, 30% elastan</g:material>
+      <g:material>70% viskóza/30% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4398,7 +4398,7 @@ Výška modelky je 173 cm. Na sebe má veľkosť L/XL.]]>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>326</g:item_group_id>
       <g:color>Ružová</g:color>
-      <g:material>70% viskóza, 30% elastan</g:material>
+      <g:material>70% viskóza/30% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4489,7 +4489,7 @@ Výška modelky je 173 cm. Na sebe má veľkosť L/XL.]]>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>326</g:item_group_id>
       <g:color>Ružová</g:color>
-      <g:material>70% viskóza, 30% elastan</g:material>
+      <g:material>70% viskóza/30% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4577,7 +4577,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>329</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4665,7 +4665,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>329</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -4753,7 +4753,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>329</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5013,7 +5013,7 @@ Výška&nbsp; modelky je 173 cm.&nbsp;Na sebe má veľkosť M/L]]>
       <g:item_group_id>335</g:item_group_id>
       <g:color>Biela</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5099,7 +5099,7 @@ Výška&nbsp; modelky je 173 cm.&nbsp;Na sebe má veľkosť M/L]]>
       <g:item_group_id>335</g:item_group_id>
       <g:color>Biela</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5185,7 +5185,7 @@ Výška&nbsp; modelky je 173 cm.&nbsp;Na sebe má veľkosť M/L]]>
       <g:item_group_id>335</g:item_group_id>
       <g:color>Biela</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5269,7 +5269,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>338</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5353,7 +5353,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>338</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5437,7 +5437,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>338</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5510,7 +5510,7 @@ dĺžka rukáva od ramena: 71 cm]]>
       <g:item_group_id>341</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5625,7 +5625,7 @@ dĺžka rukáva od ramena: 71 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>347</g:item_group_id>
       <g:color>Modrá</g:color>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5698,7 +5698,7 @@ Výška modelky je 173 cm.]]>
       <g:item_group_id>350</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>65% viskóza,35% Nylon</g:material>
+      <g:material>65% viskóza/35% Nylon</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -5940,7 +5940,7 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       <g:item_group_id>355</g:item_group_id>
       <g:color>Čokoládová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6016,7 +6016,7 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       <g:item_group_id>355</g:item_group_id>
       <g:color>Čokoládová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6093,7 +6093,7 @@ Výška&nbsp; modelky je 173 cm. Ma oblečenú velkost M/L, súprava je elastick
       <g:item_group_id>358</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6170,7 +6170,7 @@ Výška&nbsp; modelky je 173 cm. Ma oblečenú velkost M/L, súprava je elastick
       <g:item_group_id>358</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6262,7 +6262,7 @@ dĺžka: 35 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>361</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6354,7 +6354,7 @@ dĺžka: 35 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>361</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6446,7 +6446,7 @@ dĺžka: 35 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>361</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6538,7 +6538,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>364</g:item_group_id>
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6630,7 +6630,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>364</g:item_group_id>
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6722,7 +6722,7 @@ dĺžka rukáva: 62 cm
       <g:item_group_id>364</g:item_group_id>
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6812,7 +6812,7 @@ dĺžka: 35 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>370</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6902,7 +6902,7 @@ dĺžka: 35 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>370</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -6992,7 +6992,7 @@ dĺžka: 35 cm
       <g:adult>FALSE</g:adult>
       <g:item_group_id>370</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7093,7 +7093,7 @@ Táto blúzka sa ľahko upravuje – dobre sa hodí k džínsom, maxisukniam a e
       <g:adult>FALSE</g:adult>
       <g:item_group_id>371</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>70% ľan, 30% viskóza</g:material>
+      <g:material>70% ľan/30% viskóza</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7185,7 +7185,7 @@ Ako sa starať o blúzku, aby vydržala dlhšie: perte jemne pri nízkych teplot
       <g:item_group_id>374</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
-      <g:material>70% ľan, 30% viskóza</g:material>
+      <g:material>70% ľan/30% viskóza</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7284,7 +7284,7 @@ Odporúčame vám vybrať si vhodnú veľkosť na základe poskytnutých rozmero
       <g:item_group_id>377</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>70% ľan, 30% viskóza</g:material>
+      <g:material>70% ľan/30% viskóza</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7383,7 +7383,7 @@ Odporúčame vám vybrať si vhodnú veľkosť na základe poskytnutých rozmero
       <g:item_group_id>377</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>70% ľan, 30% viskóza</g:material>
+      <g:material>70% ľan/30% viskóza</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7539,7 +7539,7 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
       <g:item_group_id>383</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7616,7 +7616,7 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
       <g:item_group_id>383</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7825,7 +7825,7 @@ dĺžka: 38 cm
       <g:item_group_id>392</g:item_group_id>
       <g:color>Mokka</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -7944,7 +7944,7 @@ dĺžka: 38 cm
       <g:item_group_id>392</g:item_group_id>
       <g:color>Mokka</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8062,7 +8062,7 @@ dĺžka: 38 cm
       <g:item_group_id>395</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8180,7 +8180,7 @@ dĺžka: 38 cm
       <g:item_group_id>395</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>95 % BAVLNA, 5% elastan</g:material>
+      <g:material>95 % BAVLNA/5% elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8283,7 +8283,7 @@ Nečakajte, doplňte si šatník o&nbsp;Šaty "ANNA"&nbsp;a užívajte si ich č
       <g:adult>FALSE</g:adult>
       <g:item_group_id>398</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8386,7 +8386,7 @@ Nečakajte, doplňte si šatník o&nbsp;Šaty "ANNA"&nbsp;a užívajte si ich č
       <g:adult>FALSE</g:adult>
       <g:item_group_id>398</g:item_group_id>
       <g:gender>female</g:gender>
-      <g:material>95% viskóza, 5 % elastan</g:material>
+      <g:material>95% viskóza/5 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8476,7 +8476,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:item_group_id>401</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Ľan</g:material>
+      <g:material>Bavlna/Ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8566,7 +8566,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:item_group_id>401</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Ľan</g:material>
+      <g:material>Bavlna/Ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8656,7 +8656,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:item_group_id>401</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Ľan</g:material>
+      <g:material>Bavlna/Ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8746,7 +8746,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:item_group_id>401</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Ľan</g:material>
+      <g:material>Bavlna/Ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9325,7 +9325,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:item_group_id>410</g:item_group_id>
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>90 % bavlna, 10 % elastan</g:material>
+      <g:material>90 % bavlna/10 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9409,7 +9409,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:item_group_id>410</g:item_group_id>
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>90 % bavlna, 10 % elastan</g:material>
+      <g:material>90 % bavlna/10 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9493,7 +9493,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:item_group_id>410</g:item_group_id>
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>90 % bavlna, 10 % elastan</g:material>
+      <g:material>90 % bavlna/10 % elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9601,7 +9601,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:item_group_id>413</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9689,7 +9689,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:item_group_id>416</g:item_group_id>
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9776,7 +9776,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:item_group_id>419</g:item_group_id>
       <g:color>Oranžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9863,7 +9863,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:item_group_id>422</g:item_group_id>
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9950,7 +9950,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:item_group_id>422</g:item_group_id>
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10037,7 +10037,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:item_group_id>422</g:item_group_id>
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10121,7 +10121,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
       <g:item_group_id>425</g:item_group_id>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10205,7 +10205,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
       <g:item_group_id>425</g:item_group_id>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10289,7 +10289,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
       <g:item_group_id>425</g:item_group_id>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10395,7 +10395,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:item_group_id>428</g:item_group_id>
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10481,7 +10481,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:item_group_id>431</g:item_group_id>
       <g:color>Žltá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10590,7 +10590,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:item_group_id>434</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Elastan</g:material>
+      <g:material>Polyester/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10679,7 +10679,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:item_group_id>437</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Nylon</g:material>
+      <g:material>Bavlna/Nylon</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10767,7 +10767,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:item_group_id>440</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Bavlna</g:material>
+      <g:material>Polyester/Bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10855,7 +10855,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:item_group_id>440</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Bavlna</g:material>
+      <g:material>Polyester/Bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10943,7 +10943,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:item_group_id>440</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Bavlna</g:material>
+      <g:material>Polyester/Bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11027,7 +11027,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:item_group_id>443</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Bavlna</g:material>
+      <g:material>Polyester/Bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11111,7 +11111,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:item_group_id>443</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Bavlna</g:material>
+      <g:material>Polyester/Bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11195,7 +11195,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:item_group_id>443</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Bavlna</g:material>
+      <g:material>Polyester/Bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11288,7 +11288,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:item_group_id>446</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11362,7 +11362,7 @@ Dĺžka rukáva: 56 cm]]>
       <g:item_group_id>449</g:item_group_id>
       <g:color>Čierna/béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11463,7 +11463,7 @@ dĺžka rukáva: 56 cm]]>
       <g:item_group_id>452</g:item_group_id>
       <g:color>Oranžová/Ružová/Zelená</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Viskóza, Elastan</g:material>
+      <g:material>Polyester/Viskóza/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11561,7 +11561,7 @@ Odporúčame prať v práčke pri teplote 30 °C. Nepoužívajte agresívne biel
       <g:item_group_id>455</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11637,7 +11637,7 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
       <g:item_group_id>458</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11713,7 +11713,7 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
       <g:item_group_id>461</g:item_group_id>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Bavlna, Elastan</g:material>
+      <g:material>Bavlna/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11799,7 +11799,7 @@ Modelka meria 164 cm a má na sebe univerzálnu veľkosť one size.
       <g:item_group_id>464</g:item_group_id>
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
-      <g:material>Polyester, Elastan</g:material>
+      <g:material>Polyester/Elastan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12226,7 +12226,7 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
       <g:item_group_id>476</g:item_group_id>
       <g:color>Svetlohnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza, ľan</g:material>
+      <g:material>Viskóza/ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12300,7 +12300,7 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
       <g:item_group_id>476</g:item_group_id>
       <g:color>Svetlohnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza, ľan</g:material>
+      <g:material>Viskóza/ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12374,7 +12374,7 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
       <g:item_group_id>476</g:item_group_id>
       <g:color>Svetlohnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Viskóza, ľan</g:material>
+      <g:material>Viskóza/ľan</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12446,7 +12446,7 @@ celková dĺžka: 116 cm]]>
       <g:item_group_id>479</g:item_group_id>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
-      <g:material>Ľan, bavlna</g:material>
+      <g:material>Ľan/bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12520,7 +12520,7 @@ Celková dĺžka: 116 cm
       <g:item_group_id>482</g:item_group_id>
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
-      <g:material>Ľan, bavlna</g:material>
+      <g:material>Ľan/bavlna</g:material>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
