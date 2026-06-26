@@ -8458,6 +8458,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, béžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -8477,6 +8481,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/béžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8548,6 +8553,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, béžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -8567,6 +8576,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/béžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8638,6 +8648,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, béžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -8657,6 +8671,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/béžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8728,6 +8743,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, béžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -8747,6 +8766,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/béžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8814,6 +8834,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Typ materiálu</g:attribute_name>
         <g:attribute_value>Rebrovaný</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, fialový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -8833,6 +8857,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:color>Fialová</g:color>
       <g:gender>female</g:gender>
       <g:material>90% bavlna 10 % elastan</g:material>
+      <g:pattern>rebrovaný/jednofarebný/fialový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8900,6 +8925,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Typ materiálu</g:attribute_name>
         <g:attribute_value>Rebrovaný</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, fialový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -8919,6 +8948,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:color>Fialová</g:color>
       <g:gender>female</g:gender>
       <g:material>90% bavlna 10 % elastan</g:material>
+      <g:pattern>rebrovaný/jednofarebný/fialový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -8986,6 +9016,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Typ materiálu</g:attribute_name>
         <g:attribute_value>Rebrovaný</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, fialový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9005,6 +9039,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:color>Fialová</g:color>
       <g:gender>female</g:gender>
       <g:material>90% bavlna 10 % elastan</g:material>
+      <g:pattern>rebrovaný/jednofarebný/fialový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9066,6 +9101,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Zloženie</g:attribute_name>
         <g:attribute_value>Zloženie: 90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, modrý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9084,6 +9123,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:item_group_id>407</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
+      <g:pattern>rebrovaný/jednofarebný/modrý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9145,6 +9185,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Zloženie</g:attribute_name>
         <g:attribute_value>Zloženie: 90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, modrý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9163,6 +9207,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:item_group_id>407</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
+      <g:pattern>rebrovaný/jednofarebný/modrý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9224,6 +9269,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Zloženie</g:attribute_name>
         <g:attribute_value>Zloženie: 90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, modrý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9242,6 +9291,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:item_group_id>407</g:item_group_id>
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
+      <g:pattern>rebrovaný/jednofarebný/modrý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9307,6 +9357,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Rue Paris</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, zelený</g:attribute_value>
+      </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9326,6 +9380,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>90 % bavlna/10 % elastan</g:material>
+      <g:pattern>rebrovaný/jednofarebný/zelený</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9391,6 +9446,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Rue Paris</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, zelený</g:attribute_value>
+      </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9410,6 +9469,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>90 % bavlna/10 % elastan</g:material>
+      <g:pattern>rebrovaný/jednofarebný/zelený</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9475,6 +9535,10 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Rue Paris</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>rebrovaný, jednofarebný, zelený</g:attribute_value>
+      </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -9494,6 +9558,7 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>90 % bavlna/10 % elastan</g:material>
+      <g:pattern>rebrovaný/jednofarebný/zelený</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9583,6 +9648,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>volánový, jednofarebný, modrý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -9602,6 +9671,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>volánový/jednofarebný/modrý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9671,6 +9741,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Doplnková farba</g:attribute_name>
         <g:attribute_value>Tyrkysová, Fialová</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>volánový, jednofarebný, zelený</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -9690,6 +9764,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>volánový/jednofarebný/zelený</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9758,6 +9833,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>volánový, jednofarebný, oranžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -9777,6 +9856,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:color>Oranžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>volánový/jednofarebný/oranžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9845,6 +9925,10 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, rebrovaný, fuchsia</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -9864,6 +9948,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/rebrovaný/fuchsia</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -9932,6 +10017,10 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, rebrovaný, fuchsia</g:attribute_value>
+      </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -9951,6 +10040,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/rebrovaný/fuchsia</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10019,6 +10109,10 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, rebrovaný, fuchsia</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -10038,6 +10132,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:color>Fuchsiová ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/rebrovaný/fuchsia</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10103,6 +10198,10 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
         <g:attribute_name>Štýl</g:attribute_name>
         <g:attribute_value>Casual</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, rebrovaný, šedý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -10122,6 +10221,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/rebrovaný/šedý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10187,6 +10287,10 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
         <g:attribute_name>Štýl</g:attribute_name>
         <g:attribute_value>Casual</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, rebrovaný, šedý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -10206,6 +10310,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/rebrovaný/šedý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10271,6 +10376,10 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
         <g:attribute_name>Štýl</g:attribute_name>
         <g:attribute_value>Casual</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, rebrovaný, šedý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -10290,6 +10399,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
       <g:color>Sivá</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/rebrovaný/šedý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10377,6 +10487,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>skladaný, jednofarebný, zelený</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -10396,6 +10510,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:color>Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>skladaný/jednofarebný/zelený</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10463,6 +10578,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_name>Doplnková farba</g:attribute_name>
         <g:attribute_value>Biela, Modrá</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetinový, žltý, letný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -10482,6 +10601,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:color>Žltá</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>kvetinový/žltý/letný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10572,6 +10692,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>plisovaný, jednofarebný, elegantný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -10591,6 +10715,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Elastan</g:material>
+      <g:pattern>plisovaný/jednofarebný/elegantný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10661,6 +10786,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Nylon</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>čipkovaný, boho, béžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -10680,6 +10809,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Nylon</g:material>
+      <g:pattern>čipkovaný/boho/béžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10749,6 +10879,10 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>pruhovaný, ružový, farebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>28.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -10768,6 +10902,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Bavlna</g:material>
+      <g:pattern>pruhovaný/ružový/farebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10837,6 +10972,10 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>pruhovaný, ružový, farebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>28.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -10856,6 +10995,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Bavlna</g:material>
+      <g:pattern>pruhovaný/ružový/farebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -10925,6 +11065,10 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>pruhovaný, ružový, farebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>28.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -10944,6 +11088,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Bavlna</g:material>
+      <g:pattern>pruhovaný/ružový/farebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11009,6 +11154,10 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Overal</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>pruhovaný, pieskový, farebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>28.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -11028,6 +11177,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Bavlna</g:material>
+      <g:pattern>pruhovaný/pieskový/farebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11093,6 +11243,10 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Overal</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>pruhovaný, pieskový, farebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>28.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -11112,6 +11266,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Bavlna</g:material>
+      <g:pattern>pruhovaný/pieskový/farebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11177,6 +11332,10 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Overal</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>pruhovaný, pieskový, farebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>28.90 EUR</g:price>
       <g:brand>Rue Paris</g:brand>
@@ -11196,6 +11355,7 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Bavlna</g:material>
+      <g:pattern>pruhovaný/pieskový/farebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11270,6 +11430,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/leto/jeseň</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetinový, čierno-béžový, dvojfarebný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11289,6 +11453,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>kvetinový/čierno-béžový/dvojfarebný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11344,6 +11509,10 @@ Dĺžka rukáva: 56 cm]]>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Čierna, béžová</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>dvojfarebný, romantický, čierno-béžový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11363,6 +11532,7 @@ Dĺžka rukáva: 56 cm]]>
       <g:color>Čierna/béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>dvojfarebný/romantický/čierno-béžový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11445,6 +11615,10 @@ dĺžka rukáva: 56 cm]]>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Oranžová, Ružová, Zelená, Béžová</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>vzorovaný, oranžový, letný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>26.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11464,6 +11638,7 @@ dĺžka rukáva: 56 cm]]>
       <g:color>Oranžová/Ružová/Zelená</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Viskóza/Elastan</g:material>
+      <g:pattern>vzorovaný/oranžový/letný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11543,6 +11718,10 @@ Odporúčame prať v práčke pri teplote 30 °C. Nepoužívajte agresívne biel
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, bavlnený, letný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>33.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11562,6 +11741,7 @@ Odporúčame prať v práčke pri teplote 30 °C. Nepoužívajte agresívne biel
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/bavlnený/letný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11619,6 +11799,10 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, bavlnený, hnedý</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>33.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11638,6 +11822,7 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/bavlnený/hnedý</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11695,6 +11880,10 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, bavlnený, ružový</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>33.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11714,6 +11903,7 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
       <g:color>Ružová</g:color>
       <g:gender>female</g:gender>
       <g:material>Bavlna/Elastan</g:material>
+      <g:pattern>jednofarebný/bavlnený/ružový</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11781,6 +11971,10 @@ Modelka meria 164 cm a má na sebe univerzálnu veľkosť one size.
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetovaný, romantický, čierny</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -11800,6 +11994,7 @@ Modelka meria 164 cm a má na sebe univerzálnu veľkosť one size.
       <g:color>Čierna</g:color>
       <g:gender>female</g:gender>
       <g:material>Polyester/Elastan</g:material>
+      <g:pattern>kvetovaný/romantický/čierny</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11851,6 +12046,10 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>100 % viskóza</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetinový, margarétky, modro-biely</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:identifier_exists>FALSE</g:identifier_exists>
@@ -11869,6 +12068,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>100 % viskóza</g:material>
+      <g:pattern>kvetinový/margarétky/modro-biely</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11920,6 +12120,10 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>100 % viskóza</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetinový, margarétky, modro-biely</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:identifier_exists>FALSE</g:identifier_exists>
@@ -11938,6 +12142,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       <g:color>Modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>100 % viskóza</g:material>
+      <g:pattern>kvetinový/margarétky/modro-biely</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -11992,6 +12197,10 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>SUBLEVEL</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetinový, farebný, čierny</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>SUBLEVEL</g:brand>
@@ -12011,6 +12220,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       <g:color>Čierna/ružová/modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza</g:material>
+      <g:pattern>kvetinový/farebný/čierny</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12065,6 +12275,10 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>SUBLEVEL</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>kvetinový, farebný, čierny</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:brand>SUBLEVEL</g:brand>
@@ -12084,6 +12298,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       <g:color>Čierna/ružová/modrá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza</g:material>
+      <g:pattern>kvetinový/farebný/čierny</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12134,6 +12349,10 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>zebra, zvierací vzor, čierno-biely</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>31.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -12153,6 +12372,7 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
       <g:color>Čierna/béžová/zlatá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza</g:material>
+      <g:pattern>zebra/zvierací vzor/čierno-biely</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12208,6 +12428,10 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, prírodný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -12227,6 +12451,7 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
       <g:color>Svetlohnedá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza/ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/prírodný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12282,6 +12507,10 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, prírodný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -12301,6 +12530,7 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
       <g:color>Svetlohnedá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza/ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/prírodný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12356,6 +12586,10 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, prírodný</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -12375,6 +12609,7 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
       <g:color>Svetlohnedá</g:color>
       <g:gender>female</g:gender>
       <g:material>Viskóza/ľan</g:material>
+      <g:pattern>jednofarebný/ľanový/prírodný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12428,6 +12663,10 @@ celková dĺžka: 116 cm]]>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, boho</g:attribute_value>
+      </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -12447,6 +12686,7 @@ celková dĺžka: 116 cm]]>
       <g:color>Hnedá</g:color>
       <g:gender>female</g:gender>
       <g:material>Ľan/bavlna</g:material>
+      <g:pattern>jednofarebný/ľanový/boho</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
@@ -12502,6 +12742,10 @@ Celková dĺžka: 116 cm
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, ľanový, letný</g:attribute_value>
+      </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>36.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
@@ -12521,6 +12765,7 @@ Celková dĺžka: 116 cm
       <g:color>Béžová</g:color>
       <g:gender>female</g:gender>
       <g:material>Ľan/bavlna</g:material>
+      <g:pattern>jednofarebný/ľanový/letný</g:pattern>
       <g:age_group>adult</g:age_group>
       <g:size_type>regular</g:size_type>
       <g:size_system>EU</g:size_system>
