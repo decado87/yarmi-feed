@@ -6612,7 +6612,7 @@ dĺžka rukáva: 62 cm
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Fuchsiová ružová</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>26.90 EUR</g:price>
       <g:gtin>5907378519774</g:gtin>
       <g:brand>LaBalancia</g:brand>
