@@ -7807,7 +7807,7 @@ dĺžka: 38 cm
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Mokka</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>44.90 EUR</g:price>
       <g:gtin>5907378512652</g:gtin>
       <g:brand>LaBalancia</g:brand>
@@ -8652,7 +8652,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>jednofarebný, ľanový, béžový</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
@@ -12667,7 +12667,7 @@ celková dĺžka: 116 cm]]>
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>jednofarebný, ľanový, boho</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>36.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
