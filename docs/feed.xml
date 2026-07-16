@@ -8589,7 +8589,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>jednofarebný, ľanový, béžový</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
