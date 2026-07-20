@@ -2311,7 +2311,8 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
-      <g:price>69.90 EUR</g:price>
+      <g:price>62.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378500116</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -2393,7 +2394,8 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
-      <g:price>69.90 EUR</g:price>
+      <g:price>62.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378500123</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -2475,7 +2477,8 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
-      <g:price>69.90 EUR</g:price>
+      <g:price>62.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378500109</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
