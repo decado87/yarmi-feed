@@ -49,28 +49,28 @@ One Size
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
+        <g:attribute_name>Veľkosť</g:attribute_name>
+        <g:attribute_value>One size</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
         <g:attribute_value>Po kolená</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Veľkosť</g:attribute_name>
-        <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -136,40 +136,40 @@ One Size
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
+        <g:attribute_name>Pohlavie</g:attribute_name>
+        <g:attribute_value>Žena</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Hnedá</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ</g:attribute_name>
         <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Po kolená</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Veľkosť</g:attribute_name>
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Pohlavie</g:attribute_name>
-        <g:attribute_value>Žena</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Po kolená</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
@@ -242,24 +242,24 @@ One Size
         <g:attribute_value>Kabátik</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
+        <g:attribute_name>Veľkosť</g:attribute_name>
+        <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Po kolená</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Veľkosť</g:attribute_name>
-        <g:attribute_value>One size</g:attribute_value>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Po kolená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -381,24 +381,28 @@ M/L
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
+        <g:attribute_name>Pohlavie</g:attribute_name>
+        <g:attribute_value>Žena</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Béžová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -407,10 +411,6 @@ M/L
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Pohlavie</g:attribute_name>
-        <g:attribute_value>Žena</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
@@ -468,24 +468,28 @@ One Size
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
+        <g:attribute_name>Pohlavie</g:attribute_name>
+        <g:attribute_value>Žena</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Béžová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -494,10 +498,6 @@ One Size
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Pohlavie</g:attribute_name>
-        <g:attribute_value>Žena</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -564,20 +564,20 @@ One size
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dlzka</g:attribute_name>
@@ -652,20 +652,20 @@ One size
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -742,20 +742,20 @@ M/L
         <g:attribute_value>Červená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -825,12 +825,12 @@ Veľkosť: One Size
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -908,12 +908,12 @@ One Size
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskoza 65%, nylon 30%, elastan 5%</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1054,12 +1054,12 @@ Mikina dĺžka ramien: 50 cm
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>40% polyester, viskóza 55%, elastan 5%</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1131,12 +1131,12 @@ One Size
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester 95%, elastan 5%</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1203,12 +1203,12 @@ Veľkosť: One Size
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1277,12 +1277,12 @@ Veľkosť: One Size
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester 95%, elastan 5%</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1351,12 +1351,12 @@ Veľkosť: One Size
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1414,20 +1414,20 @@ Pás: 35–50 cm
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza 55%, polyester 40%, elastan 5%</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Dlhé</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Elegantný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Dlhé</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyroebené v</g:attribute_name>
@@ -1485,20 +1485,20 @@ Veľkosť: One Size
         <g:attribute_value>Sivá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza 55%, polyester 45%</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Dlhé</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Elegantný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Dlhé</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobene v</g:attribute_name>
@@ -1555,20 +1555,20 @@ Veľkosť: One Size
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester 95%, elastan 5%</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Dlhé</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Elegantný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Dlhé</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyroebené v</g:attribute_name>
@@ -1624,20 +1624,20 @@ Veľkosť: One Size
         <g:attribute_value>Červená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza 55%, polyester 40%, elastan 5%</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Dlhé</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Elegantný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Dlhé</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobene v</g:attribute_name>
@@ -1764,20 +1764,24 @@ One size
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Olivový</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Regular</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Kabát</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Kabát</g:attribute_value>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Regular</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -1786,10 +1790,6 @@ One size
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Olivový</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -1853,12 +1853,12 @@ Dĺžka vzadu: 70 cm]]>
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Krátka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Krátka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1920,12 +1920,12 @@ Prsia – šírka: 62 cm
         <g:attribute_value>Fialová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Krátka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Krátka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -1991,12 +1991,12 @@ Prsia – šírka: 62 cm
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Krátka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Krátka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -2058,20 +2058,20 @@ Prsia – šírka: 70 cm
         <g:attribute_value>Khaki</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Veľkosť</g:attribute_name>
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Dĺžka</g:attribute_name>
-        <g:attribute_value>Predĺžená</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza 95%, elastan 5%</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Dĺžka</g:attribute_name>
+        <g:attribute_value>Predĺžená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -2134,16 +2134,16 @@ Prsia – šírka: 70 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Oversize</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -2210,16 +2210,16 @@ Veľkosť: One Size
         <g:attribute_value>Tmavo-modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/jeseň</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Veľkosť</g:attribute_name>
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
@@ -2287,24 +2287,24 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Veľkost</g:attribute_name>
-        <g:attribute_value>Uni</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Veľkost</g:attribute_name>
+        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2370,24 +2370,24 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Veľkost</g:attribute_name>
-        <g:attribute_value>Uni</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Veľkost</g:attribute_name>
+        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2453,24 +2453,24 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Veľkost</g:attribute_name>
-        <g:attribute_value>Uni</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Veľkost</g:attribute_name>
+        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2534,12 +2534,16 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
+        <g:attribute_name>Veľkosť</g:attribute_name>
+        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -2548,10 +2552,6 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Veľkosť</g:attribute_name>
-        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2614,12 +2614,16 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
+        <g:attribute_name>Veľkosť</g:attribute_name>
+        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -2628,10 +2632,6 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Veľkosť</g:attribute_name>
-        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2694,12 +2694,16 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
+        <g:attribute_name>Veľkosť</g:attribute_name>
+        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -2708,10 +2712,6 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Veľkosť</g:attribute_name>
-        <g:attribute_value>Uni</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2781,20 +2781,20 @@ M/L • dĺžka: 104 cm • šírka pásu: 34–46 cm x 2 • šírka bokov: 48 
         <g:attribute_value>Staro-ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Casual</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Casual</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2864,20 +2864,20 @@ M/L • dĺžka: 104 cm • šírka pásu: 34–46 cm x 2 • šírka bokov: 48 
         <g:attribute_value>Staro-ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Casual</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Casual</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -2938,6 +2938,14 @@ Bundička (One Size) • dĺžka: 47 cm • šírka: 49 cm x 2 • dĺžka ruká
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>100 % BAVLNA</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
@@ -2948,14 +2956,6 @@ Bundička (One Size) • dĺžka: 47 cm • šírka: 49 cm x 2 • dĺžka ruká
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet dámsky</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>100 % BAVLNA</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3026,20 +3026,20 @@ M/L dĺžka 41 cm šírka pod pazuchami 34–50 cm x 2 dĺžka rukáva 24 cm
         <g:attribute_value>Sivá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Športový</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Športový</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3110,20 +3110,20 @@ M/L dĺžka 41 cm šírka pod pazuchami 34–50 cm x 2 dĺžka rukáva 24 cm
         <g:attribute_value>Sivá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Športový</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Športový</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3244,6 +3244,10 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       <g:condition>new</g:condition>
       <g:size>M/L</g:size>
       <g:product_detail>
+        <g:attribute_name>Pohlavie</g:attribute_name>
+        <g:attribute_value>Žena</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
@@ -3252,20 +3256,16 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Pohlavie</g:attribute_name>
-        <g:attribute_value>Žena</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Material</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobene v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3330,6 +3330,10 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       <g:condition>new</g:condition>
       <g:size>XS/S</g:size>
       <g:product_detail>
+        <g:attribute_name>Pohlavie</g:attribute_name>
+        <g:attribute_value>Žena</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
@@ -3338,20 +3342,16 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Pohlavie</g:attribute_name>
-        <g:attribute_value>Žena</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Material</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobene v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3428,8 +3428,8 @@ Výška modelky je &nbsp;173 cm.&nbsp;Na sebe má veľkosť One size.]]>
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Dámsky komplet</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
@@ -3440,8 +3440,8 @@ Výška modelky je &nbsp;173 cm.&nbsp;Na sebe má veľkosť One size.]]>
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Dámsky komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3543,6 +3543,10 @@ dĺžka: 37 cm
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Elegantný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
@@ -3553,10 +3557,6 @@ dĺžka: 37 cm
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet dámsky</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Elegantný</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3657,6 +3657,10 @@ dĺžka: 37 cm
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Elegantný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
@@ -3667,10 +3671,6 @@ dĺžka: 37 cm
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Komplet dámsky</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Elegantný</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3735,28 +3735,28 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Vzor panter</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Voľný/ slim</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3822,28 +3822,28 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Vzor panter</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ</g:attribute_name>
         <g:attribute_value>Komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Strih</g:attribute_name>
         <g:attribute_value>Voľný/ slim</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -3925,12 +3925,12 @@ L/XL
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -4020,12 +4020,12 @@ L/XL
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -4115,12 +4115,12 @@ L/XL
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
@@ -4195,20 +4195,20 @@ dĺžka rukáva: 70 cm]]>
       <g:condition>new</g:condition>
       <g:size>S/M</g:size>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Blúzka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>70% viskóza, 30% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Blúzka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -4274,20 +4274,20 @@ dĺžka rukáva: 70 cm]]>
       <g:condition>new</g:condition>
       <g:size>L/XL</g:size>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Blúzka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>70% viskóza, 30% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Blúzka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -4365,20 +4365,20 @@ Výška modelky je 173 cm. Na sebe má veľkosť L/XL.]]>
       <g:condition>new</g:condition>
       <g:size>S/M</g:size>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Blúzka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>70% viskóza, 30% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Blúzka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -4456,20 +4456,20 @@ Výška modelky je 173 cm. Na sebe má veľkosť L/XL.]]>
       <g:condition>new</g:condition>
       <g:size>L/XL</g:size>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Blúzka</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>70% viskóza, 30% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Blúzka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -4543,16 +4543,16 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -4631,16 +4631,16 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -4719,16 +4719,16 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -4983,16 +4983,16 @@ Výška&nbsp; modelky je 173 cm.&nbsp;Na sebe má veľkosť M/L]]>
         <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -5069,16 +5069,16 @@ Výška&nbsp; modelky je 173 cm.&nbsp;Na sebe má veľkosť M/L]]>
         <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -5155,16 +5155,16 @@ Výška&nbsp; modelky je 173 cm.&nbsp;Na sebe má veľkosť M/L]]>
         <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -5239,16 +5239,16 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -5323,16 +5323,16 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -5407,16 +5407,16 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -5476,16 +5476,16 @@ dĺžka rukáva od ramena: 71 cm]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Ružová</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -5596,12 +5596,12 @@ dĺžka rukáva od ramena: 71 cm
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -5672,16 +5672,16 @@ Výška modelky je 173 cm.]]>
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>65% viskóza,35% Nylon</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>65% viskóza,35% Nylon</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>29.90 EUR</g:price>
@@ -5751,20 +5751,20 @@ dĺžka: 45 cm
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Semiš</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % polyester</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -5834,20 +5834,20 @@ dĺžka: 45 cm
         <g:attribute_value>Bordová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Celoročná</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Semiš</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % polyester</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Celoročná</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -5906,6 +5906,14 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Čokoládová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
@@ -5914,16 +5922,8 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Čokoládová</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
@@ -5982,6 +5982,14 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Čokoládová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
@@ -5990,16 +5998,8 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Komplet</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Čokoládová</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
@@ -6063,16 +6063,16 @@ Výška&nbsp; modelky je 173 cm. Ma oblečenú velkost M/L, súprava je elastick
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -6140,16 +6140,16 @@ Výška&nbsp; modelky je 173 cm. Ma oblečenú velkost M/L, súprava je elastick
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Komplet</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Komplet</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -6229,24 +6229,24 @@ dĺžka: 35 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -6321,24 +6321,24 @@ dĺžka: 35 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -6413,24 +6413,24 @@ dĺžka: 35 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -6500,6 +6500,14 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Fuchsiová ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
@@ -6508,20 +6516,12 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Tričko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Fuchsiová ružová</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>26.90 EUR</g:price>
@@ -6592,6 +6592,14 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Fuchsiová ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
@@ -6600,20 +6608,12 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Tričko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Fuchsiová ružová</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>26.90 EUR</g:price>
@@ -6684,6 +6684,14 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Fuchsiová ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Celoročná</g:attribute_value>
       </g:product_detail>
@@ -6692,20 +6700,12 @@ dĺžka rukáva: 62 cm
         <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Tričko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Fuchsiová ružová</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>26.90 EUR</g:price>
@@ -6779,24 +6779,24 @@ dĺžka: 35 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -6869,24 +6869,24 @@ dĺžka: 35 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -6959,24 +6959,24 @@ dĺžka: 35 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Typ</g:attribute_name>
+        <g:attribute_value>Sukňa</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>95 % BAVLNA, 5% elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>LaBalancia</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ</g:attribute_name>
-        <g:attribute_value>Sukňa</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
@@ -7068,16 +7068,16 @@ Táto blúzka sa ľahko upravuje – dobre sa hodí k džínsom, maxisukniam a e
         <g:attribute_value>One size</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>70% ľan, 30% viskóza</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>70% ľan, 30% viskóza</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>34.90 EUR</g:price>
@@ -7151,24 +7151,24 @@ Ako sa starať o blúzku, aby vydržala dlhšie: perte jemne pri nízkych teplot
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Modrá</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Pohlavie</g:attribute_name>
         <g:attribute_value>Žena</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Modrá</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>70% ľan, 30% viskóza</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>70% ľan, 30% viskóza</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>34.90 EUR</g:price>
@@ -7259,16 +7259,16 @@ Odporúčame vám vybrať si vhodnú veľkosť na základe poskytnutých rozmero
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>70% ľan, 30% viskóza</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>59.90 EUR</g:price>
@@ -7358,16 +7358,16 @@ Odporúčame vám vybrať si vhodnú veľkosť na základe poskytnutých rozmero
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>70% ľan, 30% viskóza</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>59.90 EUR</g:price>
@@ -7517,12 +7517,12 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
@@ -7594,12 +7594,12 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
@@ -7685,12 +7685,12 @@ Súprava je zo svetrového materiálu a sedí na veľkosť S.]]>
         <g:attribute_value>Zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>49.90 EUR</g:price>
@@ -7795,8 +7795,8 @@ dĺžka: 38 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Mokka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
@@ -7807,8 +7807,8 @@ dĺžka: 38 cm
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Mokka</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -7914,8 +7914,8 @@ dĺžka: 38 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Mokka</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
@@ -7926,8 +7926,8 @@ dĺžka: 38 cm
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Mokka</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -8028,16 +8028,12 @@ dĺžka: 38 cm
       <g:condition>new</g:condition>
       <g:size>M/L</g:size>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Čierna</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Pohlavie</g:attribute_name>
         <g:attribute_value>Žena</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
@@ -8046,6 +8042,10 @@ dĺžka: 38 cm
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -8146,16 +8146,12 @@ dĺžka: 38 cm
       <g:condition>new</g:condition>
       <g:size>XS/S</g:size>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Čierna</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Pohlavie</g:attribute_name>
         <g:attribute_value>Žena</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
@@ -8164,6 +8160,10 @@ dĺžka: 38 cm
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -8262,12 +8262,12 @@ Nečakajte, doplňte si šatník o&nbsp;Šaty "ANNA"&nbsp;a užívajte si ich č
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -8365,12 +8365,12 @@ Nečakajte, doplňte si šatník o&nbsp;Šaty "ANNA"&nbsp;a užívajte si ich č
         <g:attribute_value>95% viskóza, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>44.90 EUR</g:price>
@@ -8458,24 +8458,24 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
         <g:attribute_value>Midi</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -8569,24 +8569,24 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
         <g:attribute_value>Midi</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -8680,24 +8680,24 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
         <g:attribute_value>Midi</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -8791,24 +8791,24 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Dĺžka</g:attribute_name>
         <g:attribute_value>Midi</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Ľan</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -8886,16 +8886,16 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_value>Fialová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90% bavlna 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90% bavlna 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ materiálu</g:attribute_name>
@@ -8977,16 +8977,16 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_value>Fialová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90% bavlna 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90% bavlna 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ materiálu</g:attribute_name>
@@ -9068,16 +9068,16 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_value>Fialová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90% bavlna 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90% bavlna 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ materiálu</g:attribute_name>
@@ -9409,16 +9409,16 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_value>Zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -9498,16 +9498,16 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_value>Zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -9587,16 +9587,16 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
         <g:attribute_value>Zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -9700,6 +9700,10 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Vyrobene v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
@@ -9710,10 +9714,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:product_detail>
         <g:attribute_name>Doplnková farba</g:attribute_name>
         <g:attribute_value>Zelená</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -9794,16 +9794,16 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
         <g:attribute_value>Zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Doplnková farba</g:attribute_name>
@@ -9883,12 +9883,16 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Oranžová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Oranžová</g:attribute_value>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Doplnková farba</g:attribute_name>
@@ -9897,10 +9901,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       <g:product_detail>
         <g:attribute_name>Typ šiat</g:attribute_name>
         <g:attribute_value>Letné</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -9976,12 +9976,16 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Fuchsiová ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -9990,10 +9994,6 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Rue Paris</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -10068,12 +10068,16 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Fuchsiová ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -10082,10 +10086,6 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Rue Paris</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -10160,12 +10160,16 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Fuchsiová ružová</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -10174,10 +10178,6 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>Rue Paris</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -10253,16 +10253,16 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
         <g:attribute_value>Sivá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Štýl</g:attribute_name>
@@ -10342,16 +10342,16 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
         <g:attribute_value>Sivá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Štýl</g:attribute_name>
@@ -10431,16 +10431,16 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm]]>
         <g:attribute_value>Sivá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Štýl</g:attribute_name>
@@ -10538,24 +10538,24 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_value>Zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ šiat</g:attribute_name>
-        <g:attribute_value>Letné</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Italy fashion</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Doplnková farba</g:attribute_name>
         <g:attribute_value>Modrá, Ružová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Italy fashion</g:attribute_value>
+        <g:attribute_name>Typ šiat</g:attribute_name>
+        <g:attribute_value>Letné</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -10625,24 +10625,24 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Žltá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Žltá</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Doplnková farba</g:attribute_name>
@@ -10748,20 +10748,20 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Polyester, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Polyester, Elastan</g:attribute_value>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -10842,20 +10842,20 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Nylon</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Letné šaty</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Nylon</g:attribute_value>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Letné šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -10927,20 +10927,8 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Voľný</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Doplnková farba</g:attribute_name>
-        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ</g:attribute_name>
@@ -10949,6 +10937,18 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Voľný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Doplnková farba</g:attribute_name>
+        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11020,20 +11020,8 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Voľný</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Doplnková farba</g:attribute_name>
-        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ</g:attribute_name>
@@ -11042,6 +11030,18 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Voľný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Doplnková farba</g:attribute_name>
+        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11113,20 +11113,8 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Strih</g:attribute_name>
-        <g:attribute_value>Voľný</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Ružová</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Doplnková farba</g:attribute_name>
-        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ</g:attribute_name>
@@ -11135,6 +11123,18 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Strih</g:attribute_name>
+        <g:attribute_value>Voľný</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Doplnková farba</g:attribute_name>
+        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11210,20 +11210,20 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Doplnková farba</g:attribute_name>
-        <g:attribute_value>Biela</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Overal</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Doplnková farba</g:attribute_name>
+        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11299,20 +11299,20 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Doplnková farba</g:attribute_name>
-        <g:attribute_value>Biela</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Overal</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Doplnková farba</g:attribute_name>
+        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11388,20 +11388,20 @@ Obvod pŕs: 74-90 cm(maximálna dĺžka je v natiahnutom stave) Obvod pása:&nbs
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Doplnková farba</g:attribute_name>
-        <g:attribute_value>Biela</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Bavlna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Overal</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Doplnková farba</g:attribute_name>
+        <g:attribute_value>Biela</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11478,12 +11478,16 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/leto/jeseň</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -11496,10 +11500,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       <g:product_detail>
         <g:attribute_name>Podšívka</g:attribute_name>
         <g:attribute_value>Áno</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/leto/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11561,12 +11561,8 @@ Dĺžka rukáva: 56 cm]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Čierna, béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
@@ -11577,8 +11573,12 @@ Dĺžka rukáva: 56 cm]]>
         <g:attribute_value>Jar/leto/jeseň</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Čierna, béžová</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11671,20 +11671,20 @@ dĺžka rukáva: 56 cm]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Oranžová, Ružová, Zelená, Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Polyester, Viskóza, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Oranžová, Ružová, Zelená, Béžová</g:attribute_value>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -11779,16 +11779,16 @@ Odporúčame prať v práčke pri teplote 30 °C. Nepoužívajte agresívne biel
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>Bavlna, Elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -12113,12 +12113,12 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>100 % viskóza</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -12187,12 +12187,12 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_value>Modrá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>100 % viskóza</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -12256,16 +12256,16 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Čierna, ružová, modrá, žltá, zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12335,16 +12335,16 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Čierna, ružová, modrá, žltá, zelená</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12410,16 +12410,16 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Letné šaty</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Čierna, béžová, zlatá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Čierna, béžová, zlatá</g:attribute_value>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Letné šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12490,16 +12490,16 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Svetlohnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza, ľan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12569,16 +12569,16 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Svetlohnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza, ľan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12648,16 +12648,16 @@ Obvod hrudníka: 104 cm Obvod pása: 98 cm Obvod bokov: 122 cm Celková dĺžka:
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Farba</g:attribute_name>
         <g:attribute_value>Svetlohnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Viskóza, ľan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12729,12 +12729,12 @@ celková dĺžka: 116 cm]]>
         <g:attribute_value>Hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Letné šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Ľan, bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Letné šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12808,12 +12808,12 @@ Celková dĺžka: 116 cm
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>Ľan, bavlna</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -12896,20 +12896,20 @@ zadná dĺžka 106 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Rue Paris</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Rue Paris</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -12988,20 +12988,20 @@ zadná dĺžka 106 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Rue Paris</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Rue Paris</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -13080,20 +13080,20 @@ zadná dĺžka 106 cm
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Sezóna</g:attribute_name>
-        <g:attribute_value>Jar/Leto</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Značka</g:attribute_name>
-        <g:attribute_value>Rue Paris</g:attribute_value>
+        <g:attribute_name>Sezóna</g:attribute_name>
+        <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Letné šaty</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Značka</g:attribute_name>
+        <g:attribute_value>Rue Paris</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
@@ -13164,12 +13164,16 @@ Modelka meria 176 cm a má oblečenú univerzálnu veľkosť.
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>Taliansko</g:attribute_value>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>95 % bavlna, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -13178,10 +13182,6 @@ Modelka meria 176 cm a má oblečenú univerzálnu veľkosť.
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>Jednofarebné</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>95 % bavlna, 5 % elastan</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>37.90 EUR</g:price>
@@ -13246,16 +13246,16 @@ Modelka meria 173 cm a má oblečenú univerzálnu veľkosť.
         <g:attribute_value>Béžová</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vyrobené v</g:attribute_name>
-        <g:attribute_value>EÚ</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>100 % BAVLNA</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vyrobené v</g:attribute_name>
+        <g:attribute_value>EÚ</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
@@ -13323,6 +13323,10 @@ Modelka meria 175 cm a má oblečenú univerzálnu veľkosť.]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Taupe</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>100 % BAVLNA</g:attribute_value>
       </g:product_detail>
@@ -13335,16 +13339,12 @@ Modelka meria 175 cm a má oblečenú univerzálnu veľkosť.]]>
         <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Vzor</g:attribute_name>
-        <g:attribute_value>jednofarebný, bavlnený, letný</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Taupe</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>OCH BELLA</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Vzor</g:attribute_name>
+        <g:attribute_value>jednofarebný, bavlnený, letný</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>36.90 EUR</g:price>
@@ -13414,12 +13414,16 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Tmavo - hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -13428,10 +13432,6 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>jednofarebný, bavlnený, letný</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Tmavo - hnedá</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
@@ -13501,12 +13501,16 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
-        <g:attribute_name>Typ produktu</g:attribute_name>
-        <g:attribute_value>Šaty</g:attribute_value>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Tmavo - hnedá</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Materiál</g:attribute_name>
         <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Typ produktu</g:attribute_name>
+        <g:attribute_value>Šaty</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -13515,10 +13519,6 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>jednofarebný, bavlnený, letný</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Tmavo - hnedá</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
@@ -13592,16 +13592,16 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -13682,16 +13682,16 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
         <g:attribute_value>Čierna</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Typ produktu</g:attribute_name>
         <g:attribute_value>Šaty</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>90 % bavlna, 10 % elastan</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
         <g:attribute_name>Značka</g:attribute_name>
@@ -13761,6 +13761,14 @@ Modelka meria 173 cm a má oblečenú univerzálnu veľkosť.]]>
         <g:attribute_value>Ženy</g:attribute_value>
       </g:product_detail>
       <g:product_detail>
+        <g:attribute_name>Farba</g:attribute_name>
+        <g:attribute_value>Svetlomodrá</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:attribute_name>Materiál</g:attribute_name>
+        <g:attribute_value>100 % lyocell</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
         <g:attribute_name>Sezóna</g:attribute_name>
         <g:attribute_value>Jar/Leto</g:attribute_value>
       </g:product_detail>
@@ -13775,14 +13783,6 @@ Modelka meria 173 cm a má oblečenú univerzálnu veľkosť.]]>
       <g:product_detail>
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>Jednofarebné</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Farba</g:attribute_name>
-        <g:attribute_value>Svetlomodrá</g:attribute_value>
-      </g:product_detail>
-      <g:product_detail>
-        <g:attribute_name>Materiál</g:attribute_name>
-        <g:attribute_value>100 % lyocell</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>37.90 EUR</g:price>
