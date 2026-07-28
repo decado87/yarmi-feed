@@ -9734,7 +9734,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
-      <g:sale_price>23.30 EUR</g:sale_price>
+      <g:sale_price>20.70 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9921,7 +9921,7 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
-      <g:sale_price>23.30 EUR</g:sale_price>
+      <g:sale_price>20.70 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -10198,7 +10198,7 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>jednofarebný, rebrovaný, fuchsia</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>19.90 EUR</g:price>
       <g:sale_price>15.90 EUR</g:sale_price>
       <g:brand>BASIC FEEL GOOD</g:brand>
@@ -11615,6 +11615,7 @@ Dĺžka rukáva: 56 cm]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
+      <g:sale_price>20.70 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -11721,7 +11722,7 @@ dĺžka rukáva: 56 cm]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>26.90 EUR</g:price>
-      <g:sale_price>24.20 EUR</g:sale_price>
+      <g:sale_price>21.50 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -13477,7 +13478,7 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>32.30 EUR</g:sale_price>
+      <g:sale_price>28.70 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -13564,7 +13565,7 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>32.30 EUR</g:sale_price>
+      <g:sale_price>28.70 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
