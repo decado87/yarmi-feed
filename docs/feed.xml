@@ -1214,7 +1214,7 @@ Veľkosť: One Size
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -2311,8 +2311,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
-      <g:price>62.90 EUR</g:price>
-      <g:sale_price>62.90 EUR</g:sale_price>
+      <g:price>69.90 EUR</g:price>
       <g:gtin>5907378500116</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -2394,8 +2393,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
-      <g:price>62.90 EUR</g:price>
-      <g:sale_price>62.90 EUR</g:sale_price>
+      <g:price>69.90 EUR</g:price>
       <g:gtin>5907378500123</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -2477,8 +2475,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
-      <g:price>62.90 EUR</g:price>
-      <g:sale_price>62.90 EUR</g:sale_price>
+      <g:price>69.90 EUR</g:price>
       <g:gtin>5907378500109</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -12309,7 +12306,7 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>kvetinový, farebný, čierny</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
       <g:sale_price>19.50 EUR</g:sale_price>
       <g:brand>SUBLEVEL</g:brand>
