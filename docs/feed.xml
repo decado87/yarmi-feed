@@ -993,6 +993,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1067,6 +1068,7 @@ Mikina dĺžka ramien: 50 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1290,6 +1292,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1364,6 +1367,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -8480,7 +8484,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>25.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -8592,7 +8595,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>25.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -8704,7 +8706,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>25.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -8816,7 +8817,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>25.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9437,7 +9437,6 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
-      <g:sale_price>19.50 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9527,7 +9526,6 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
-      <g:sale_price>19.50 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9617,7 +9615,6 @@ Obvod pŕs: 68-98 cm (maximálna dĺžka je v natiahnutom stave) Celková dĺžk
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
-      <g:sale_price>19.50 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9731,7 +9728,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>25.90 EUR</g:price>
-      <g:sale_price>18.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9825,7 +9821,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.]
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>25.90 EUR</g:price>
-      <g:sale_price>18.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -9918,7 +9913,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 cm.
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>25.90 EUR</g:price>
-      <g:sale_price>18.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -10104,7 +10098,6 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>19.90 EUR</g:price>
-      <g:sale_price>13.90 EUR</g:sale_price>
       <g:brand>BASIC FEEL GOOD</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -10197,7 +10190,6 @@ Obvod hrudníka: 74 cm Obvod pása: 74 cm Celková dĺžka od ramienok: 97 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>19.90 EUR</g:price>
-      <g:sale_price>13.90 EUR</g:sale_price>
       <g:brand>BASIC FEEL GOOD</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -10579,7 +10571,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>25.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -10671,7 +10662,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>35.90 EUR</g:price>
-      <g:sale_price>25.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -11532,7 +11522,6 @@ Rozmery sú merané naplocho. Rozdiel v rozmeroch môže predstavovať ± 1 až 
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>25.90 EUR</g:price>
-      <g:sale_price>18.10 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -11823,7 +11812,6 @@ Odporúčame prať v práčke pri teplote 30 °C. Nepoužívajte agresívne biel
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>33.90 EUR</g:price>
-      <g:sale_price>23.70 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -11987,7 +11975,6 @@ Modelka meria 176 cm a má na sebe univerzálnu veľkosť one size.]]>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>33.90 EUR</g:price>
-      <g:sale_price>23.70 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -12308,7 +12295,6 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
-      <g:sale_price>19.50 EUR</g:sale_price>
       <g:brand>SUBLEVEL</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -12385,9 +12371,8 @@ Obvod hrudníka: 98 cm Obvod pása: 80 cm Obvod bokov: 106 cm Celková dĺžka: 
         <g:attribute_name>Vzor</g:attribute_name>
         <g:attribute_value>kvetinový, farebný, čierny</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>27.90 EUR</g:price>
-      <g:sale_price>19.50 EUR</g:sale_price>
       <g:brand>SUBLEVEL</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -12462,7 +12447,6 @@ Obvod hrudníka: 94 cm Obvod pása: 118 cm Obvod bokov: 184 cm Celková dĺžka:
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>31.90 EUR</g:price>
-      <g:sale_price>22.30 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -12780,7 +12764,6 @@ celková dĺžka: 116 cm]]>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>36.90 EUR</g:price>
-      <g:sale_price>25.80 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -12860,7 +12843,6 @@ Celková dĺžka: 116 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>36.90 EUR</g:price>
-      <g:sale_price>25.80 EUR</g:sale_price>
       <g:brand>ITALY FASHION</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -13389,7 +13371,6 @@ Modelka meria 175 cm a má oblečenú univerzálnu veľkosť.]]>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>36.90 EUR</g:price>
-      <g:sale_price>25.80 EUR</g:sale_price>
       <g:brand>Och Bella</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -13654,7 +13635,6 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>32.90 EUR</g:price>
-      <g:sale_price>23.00 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
@@ -13745,7 +13725,6 @@ Modelka meria 169 cm a má oblečenú veľkosť S/M.]]>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>32.90 EUR</g:price>
-      <g:sale_price>23.00 EUR</g:sale_price>
       <g:brand>Rue Paris</g:brand>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
