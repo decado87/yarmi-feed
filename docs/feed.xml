@@ -78,6 +78,7 @@ One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -173,6 +174,7 @@ One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -414,6 +416,7 @@ M/L
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
+      <g:sale_price>40.40 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -501,6 +504,7 @@ One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>44.90 EUR</g:price>
+      <g:sale_price>40.40 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -589,6 +593,7 @@ One size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>44.90 EUR</g:price>
+      <g:sale_price>40.40 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -677,6 +682,7 @@ One size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -993,7 +999,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
-      <g:sale_price>31.90 EUR</g:sale_price>
+      <g:sale_price>27.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1292,7 +1298,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
-      <g:sale_price>31.90 EUR</g:sale_price>
+      <g:sale_price>27.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1367,7 +1373,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
-      <g:sale_price>31.90 EUR</g:sale_price>
+      <g:sale_price>27.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1439,6 +1445,7 @@ Pás: 35–50 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>29.90 EUR</g:price>
+      <g:sale_price>20.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1510,6 +1517,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>24.90 EUR</g:price>
+      <g:sale_price>17.40 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1580,6 +1588,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>25.90 EUR</g:price>
+      <g:sale_price>18.10 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1649,6 +1658,7 @@ Veľkosť: One Size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>26.90 EUR</g:price>
+      <g:sale_price>18.80 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1797,6 +1807,7 @@ One size
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:shipping>
         <g:country>SK</g:country>
@@ -1818,8 +1829,8 @@ One size
       <g:size_system>EU</g:size_system>
     </item>
     <item>
-      <g:id>192/M/L</g:id>
-      <title>Mikina Scarlet Veľkosť: M/L</title>
+      <g:id>192/ONE</g:id>
+      <title>Mikina Scarlet Veľkosť: One Size</title>
       <description>
         <![CDATA[Dámska krátka mikina v červenej farbe je pohodlný a moderný kúsok vhodný na každodenné nosenie aj voľný čas. Táto dámska mikina má kratší strih, ktorý pôsobí športovo-mestsky a pekne vynikne v kombinácii s nohavicami s vyšším pásom.
 Mikina má klasický strih a je vpredu doplnená o šnúrku, ktorá dodáva modelu štýlový detail a umožňuje jemné prispôsobenie. Materiál je príjemný na dotyk a vhodný na celodenné nosenie. Červená farba pôsobí prirodzene, moderne a ľahko sa kombinuje.
@@ -1829,21 +1840,19 @@ Táto krátka dámska mikina je ideálna do mesta, na prechádzky aj bežné nos
 Miery modleky na fotografiách sú: ramená - 42 cm, prsiam - 100 cm, boky - 100 cm, výška 173 cm.
 
 
-Veľkosť: M/L
+Veľkosť: One size
 Prsia – šírka: 62 cm
 Dĺžka vpredu: 57 cm
 Dĺžka vzadu: 70 cm]]>
       </description>
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Dámske Mikiny</g:product_type>
-      <link>https://www.yarmi.sk/damske-mikiny/cervena-mikina/?variantId=576</link>
-      <g:mobile_link>https://www.yarmi.sk/damske-mikiny/cervena-mikina/?variantId=576</g:mobile_link>
-      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/192-4_mikina-scarlet.jpg?6a14655a</g:image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/192_damska-cervena-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/192-1_damska-cervena-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/192-2_damska-cervena-mikina.jpg?6a14655a</g:additional_image_link>
+      <link>https://www.yarmi.sk/damske-mikiny/cervena-mikina/?variantId=1489</link>
+      <g:mobile_link>https://www.yarmi.sk/damske-mikiny/cervena-mikina/?variantId=1489</g:mobile_link>
+      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/192_50b63503-5567-49d6-81c4-9f2a891f1503.png?6a89aa7d</g:image_link>
+      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/192-1_b651aed0-87d4-4138-8008-17742dd6e680.png?6a89aac0</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:size>M/L</g:size>
+      <g:size>One Size</g:size>
       <g:product_detail>
         <g:attribute_name>Pohlavie</g:attribute_name>
         <g:attribute_value>Ženy</g:attribute_value>
@@ -1891,8 +1900,8 @@ Dĺžka vzadu: 70 cm]]>
       <g:size_system>EU</g:size_system>
     </item>
     <item>
-      <g:id>195/M/L</g:id>
-      <title>Mikina Violet Veľkosť: M/L</title>
+      <g:id>195/ONE</g:id>
+      <title>Mikina Violet</title>
       <description>
         <![CDATA[Dámska krátka mikina vo fialovej farbe je pohodlný a moderný kúsok vhodný na každodenné nosenie aj voľný čas. Táto dámska mikina má kratší strih, ktorý pôsobí športovo-mestsky a pekne vynikne v kombinácii s nohavicami s vyšším pásom.
 Mikina má klasický strih a je vpredu doplnená o šnúrku, ktorá dodáva modelu štýlový detail a umožňuje jemné prispôsobenie. Materiál je príjemný na dotyk a vhodný na celodenné nosenie. Fialová farba pôsobí prirodzene, moderne a ľahko sa kombinuje.
@@ -1900,21 +1909,18 @@ Mikina má klasický strih a je vpredu doplnená o šnúrku, ktorá dodáva mode
 Táto krátka dámska mikina je ideálna do mesta, na prechádzky aj bežné nosenie.
 
 Miery modleky na fotografiách sú: ramená - 42 cm, prsiam - 100 cm, boky - 100 cm, výška 173 cm.
-Veľkosť: M/L
+Veľkosť: One size
 Prsia – šírka: 62 cm
  Dĺžka vpredu: 57 cm
  Dĺžka vzadu: 70 cm]]>
       </description>
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Dámske Mikiny</g:product_type>
-      <link>https://www.yarmi.sk/damske-mikiny/mikina-violet/?variantId=582</link>
-      <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-violet/?variantId=582</g:mobile_link>
-      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/195-3_mikina-violet.jpg?6a14655a</g:image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/195_damska-fialova-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/195-1_damska-fialova-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/195-2_damska-fialova-mikina.jpg?6a14655a</g:additional_image_link>
+      <link>https://www.yarmi.sk/damske-mikiny/mikina-violet/</link>
+      <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-violet/</g:mobile_link>
+      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/195_85b9e303-2ca7-4d07-b292-71599c06e78e.png?6a89aede</g:image_link>
+      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/195-1_f43840bc-05f0-4713-9859-095c47c00075.png?6a89b02f</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:size>M/L</g:size>
       <g:product_detail>
         <g:attribute_name>Pohlavie</g:attribute_name>
         <g:attribute_value>Ženy</g:attribute_value>
@@ -1958,8 +1964,8 @@ Prsia – šírka: 62 cm
       <g:size_system>EU</g:size_system>
     </item>
     <item>
-      <g:id>198/M/L</g:id>
-      <title>Mikina Olive Veľkosť: M/L</title>
+      <g:id>198/ONE</g:id>
+      <title>Mikina Olive Veľkosť: One Size</title>
       <description>
         <![CDATA[Dámska krátka mikina v olivovej (khaki) farbe je pohodlný a moderný kúsok vhodný na každodenné nosenie aj voľný čas. Táto dámska mikina má kratší strih, ktorý pôsobí športovo-mestsky a pekne vynikne v kombinácii s nohavicami s vyšším pásom.
 Mikina má klasický strih a je vpredu doplnená o šnúrku, ktorá dodáva modelu štýlový detail a umožňuje jemné prispôsobenie. Materiál je príjemný na dotyk a vhodný na celodenné nosenie. Olivová farba pôsobí prirodzene, moderne a ľahko sa kombinuje.
@@ -1967,21 +1973,19 @@ Mikina má klasický strih a je vpredu doplnená o šnúrku, ktorá dodáva mode
 Táto krátka dámska mikina je ideálna do mesta, na prechádzky aj bežné nosenie.
 
 Miery modleky na fotografiách sú: ramená - 42 cm, prsia - 100 cm, boky - 100 cm, výška 173 cm.
-Veľkosť: M/L
+Veľkosť: One size
 Prsia – šírka: 62 cm
  Dĺžka vpredu: 57 cm
  Dĺžka vzadu: 70 cm]]>
       </description>
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Dámske Mikiny</g:product_type>
-      <link>https://www.yarmi.sk/damske-mikiny/mikina-olive/?variantId=579</link>
-      <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-olive/?variantId=579</g:mobile_link>
-      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/198-3_mikina-olive.jpg?6a14655a</g:image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/198_damska-olivova-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/198-1_damska-olivova-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/198-2_damska-olivova-mikina.jpg?6a14655a</g:additional_image_link>
+      <link>https://www.yarmi.sk/damske-mikiny/mikina-olive/?variantId=1486</link>
+      <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-olive/?variantId=1486</g:mobile_link>
+      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/198_344574c1-5b87-422f-9047-3e811e1eefd6.png?6a89b4ed</g:image_link>
+      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/198-1_82200fbb-4b5a-4663-ac36-01c00cc5e4e6.png?6a89b4ee</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:size>M/L</g:size>
+      <g:size>One Size</g:size>
       <g:product_detail>
         <g:attribute_name>Pohlavie</g:attribute_name>
         <g:attribute_value>Ženy</g:attribute_value>
@@ -2047,10 +2051,8 @@ Prsia – šírka: 70 cm
       <g:product_type>Dámske Mikiny</g:product_type>
       <link>https://www.yarmi.sk/damske-mikiny/mikina-olive-long/?variantId=591</link>
       <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-olive-long/?variantId=591</g:mobile_link>
-      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/201-4_mikina-olive-long.jpg?6a14655a</g:image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/201_damska-olivova-mikina-oversize.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/201-1_damska-olivova-mikina-oversize.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/201-2_damska-olivova-mikina-oversize.jpg?6a14655a</g:additional_image_link>
+      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/201_f9e64665-8016-41aa-a4ba-22bbad03d2b1.png?6a89b845</g:image_link>
+      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/201-1_12b79aae-0b3e-45d0-8edb-3f6725be369b.png?6a89b953</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
@@ -2123,10 +2125,8 @@ Prsia – šírka: 70 cm
       <g:product_type>Dámske Mikiny</g:product_type>
       <link>https://www.yarmi.sk/damske-mikiny/mikina-black-long/?variantId=585</link>
       <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-black-long/?variantId=585</g:mobile_link>
-      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/204-4_upravene.jpg?6a14655a</g:image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/204_damska-cierna-oversize-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/204-1_damska-cierna-oversize-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/204-2_damska-cierna-oversize-mikina.jpg?6a14655a</g:additional_image_link>
+      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/204_d25adf32-9b68-48a9-a911-a34cde7d3cda.png?6a8992e9</g:image_link>
+      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/204-1_a699a2dd-d8fe-45c7-a703-70f8e4b162f1.png?6a8993cf</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
@@ -2199,10 +2199,8 @@ Veľkosť: One Size
       <g:product_type>Dámske Mikiny</g:product_type>
       <link>https://www.yarmi.sk/damske-mikiny/mikina-navy-long/?variantId=588</link>
       <g:mobile_link>https://www.yarmi.sk/damske-mikiny/mikina-navy-long/?variantId=588</g:mobile_link>
-      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/207-4_mikina-navy-long.jpg?6a14655a</g:image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/207_damska-tmavo-modra-oversize-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/207-1_damska-tmavo-modra-oversize-mikina.jpg?6a14655a</g:additional_image_link>
-      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/207-2_mikina-navy-long.jpg?6a14655a</g:additional_image_link>
+      <g:image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/207_mikina-navy-long.png?6a899996</g:image_link>
+      <g:additional_image_link>https://cdn.myshoptet.com/usr/www.yarmi.sk/user/shop/orig/207-1_mikina-navy-long.png?6a899763</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:size>One Size</g:size>
       <g:product_detail>
@@ -2803,6 +2801,7 @@ M/L • dĺžka: 104 cm • šírka pásu: 34–46 cm x 2 • šírka bokov: 48 
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>74.90 EUR</g:price>
+      <g:sale_price>67.40 EUR</g:sale_price>
       <g:gtin>5907378520473</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -2886,6 +2885,7 @@ M/L • dĺžka: 104 cm • šírka pásu: 34–46 cm x 2 • šírka bokov: 48 
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>74.90 EUR</g:price>
+      <g:sale_price>67.40 EUR</g:sale_price>
       <g:gtin>5907378520473</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -2964,6 +2964,7 @@ Bundička (One Size) • dĺžka: 47 cm • šírka: 49 cm x 2 • dĺžka ruká
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378502264</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -3048,6 +3049,7 @@ M/L dĺžka 41 cm šírka pod pazuchami 34–50 cm x 2 dĺžka rukáva 24 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378514403</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -3132,6 +3134,7 @@ M/L dĺžka 41 cm šírka pod pazuchami 34–50 cm x 2 dĺžka rukáva 24 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378514397</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -3191,6 +3194,7 @@ dĺžka: 67 cm
       <g:size>One Size</g:size>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
+      <g:sale_price>39.90 EUR</g:sale_price>
       <g:gtin>5907378518722</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -3274,17 +3278,18 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>48.90 EUR</g:sale_price>
       <g:gtin>5907378500437</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Packeta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Slovenská pošta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Slovenská pošta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Packeta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>308</g:item_group_id>
@@ -3360,17 +3365,18 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>48.90 EUR</g:sale_price>
       <g:gtin>5907378500420</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Packeta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Slovenská pošta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Slovenská pošta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Packeta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>308</g:item_group_id>
@@ -3450,6 +3456,7 @@ Výška modelky je &nbsp;173 cm.&nbsp;Na sebe má veľkosť One size.]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
+      <g:sale_price>39.90 EUR</g:sale_price>
       <g:gtin>5907378518708</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -3765,6 +3772,7 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:gtin>5907378511235</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -3852,6 +3860,7 @@ M • dĺžka: 34 cm • šírka pásu: 36–46 cm x 2 • šírka bokov: 57 cm 
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>62.90 EUR</g:sale_price>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
@@ -3946,6 +3955,7 @@ L/XL
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>34.50 EUR</g:price>
+      <g:sale_price>27.60 EUR</g:sale_price>
       <g:gtin>5907378517473</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -4041,6 +4051,7 @@ L/XL
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>34.50 EUR</g:price>
+      <g:sale_price>27.60 EUR</g:sale_price>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
@@ -4135,6 +4146,7 @@ L/XL
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>34.50 EUR</g:price>
+      <g:sale_price>27.60 EUR</g:sale_price>
       <g:gtin>5907378517466</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -5487,6 +5499,7 @@ dĺžka rukáva od ramena: 71 cm]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
+      <g:sale_price>39.90 EUR</g:sale_price>
       <g:gtin>5907378520510</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -5532,6 +5545,7 @@ Vlastnosti:
       <g:size>One Size</g:size>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
+      <g:sale_price>39.90 EUR</g:sale_price>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
@@ -5602,6 +5616,7 @@ dĺžka rukáva od ramena: 71 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>49.90 EUR</g:price>
+      <g:sale_price>39.90 EUR</g:sale_price>
       <g:gtin>5907378520503</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -5674,6 +5689,7 @@ Výška modelky je 173 cm.]]>
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>29.90 EUR</g:price>
+      <g:sale_price>23.90 EUR</g:sale_price>
       <g:gtin>5907378508396</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -5757,6 +5773,7 @@ dĺžka: 45 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
@@ -5839,6 +5856,7 @@ dĺžka: 45 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>39.90 EUR</g:price>
+      <g:sale_price>31.90 EUR</g:sale_price>
       <g:gtin>5907378507023</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -5915,17 +5933,18 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>48.90 EUR</g:sale_price>
       <g:gtin>5907378517886</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Packeta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Slovenská pošta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Slovenská pošta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Packeta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>355</g:item_group_id>
@@ -5991,17 +6010,18 @@ M/L • dĺžka: 100 cm • pás: 70–75 cm • boky: 80–85 cm
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>48.90 EUR</g:sale_price>
       <g:gtin>5907378517879</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Packeta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Slovenská pošta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Slovenská pošta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Packeta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>355</g:item_group_id>
@@ -6068,17 +6088,18 @@ Výška&nbsp; modelky je 173 cm. Ma oblečenú velkost M/L, súprava je elastick
       </g:product_detail>
       <g:availability>in stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>48.90 EUR</g:sale_price>
       <g:gtin>5907378500413</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Packeta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Slovenská pošta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Slovenská pošta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Packeta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>358</g:item_group_id>
@@ -6145,17 +6166,18 @@ Výška&nbsp; modelky je 173 cm. Ma oblečenú velkost M/L, súprava je elastick
       </g:product_detail>
       <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
+      <g:sale_price>48.90 EUR</g:sale_price>
       <g:gtin>5907378500406</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Packeta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Slovenská pošta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:shipping>
         <g:country>SK</g:country>
-        <g:service>Slovenská pošta na adresu</g:service>
-        <g:price>0.00 EUR</g:price>
+        <g:service>Packeta na adresu</g:service>
+        <g:price>3.90 EUR</g:price>
       </g:shipping>
       <g:adult>FALSE</g:adult>
       <g:item_group_id>358</g:item_group_id>
@@ -6237,7 +6259,7 @@ dĺžka: 35 cm
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
-      <g:price>39.90 EUR</g:price>
+      <g:price>33.90 EUR</g:price>
       <g:gtin>5907378519866</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -6329,7 +6351,7 @@ dĺžka: 35 cm
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
-      <g:price>39.90 EUR</g:price>
+      <g:price>33.90 EUR</g:price>
       <g:gtin>5907378519873</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -6421,7 +6443,7 @@ dĺžka: 35 cm
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
-      <g:price>39.90 EUR</g:price>
+      <g:price>33.90 EUR</g:price>
       <g:gtin>5907378519859</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -6785,7 +6807,7 @@ dĺžka: 35 cm
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
-      <g:price>39.90 EUR</g:price>
+      <g:price>33.90 EUR</g:price>
       <g:gtin>5907378519897</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -6875,7 +6897,7 @@ dĺžka: 35 cm
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>in stock</g:availability>
-      <g:price>39.90 EUR</g:price>
+      <g:price>33.90 EUR</g:price>
       <g:gtin>5907378519880</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
@@ -6965,7 +6987,7 @@ dĺžka: 35 cm
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
       <g:availability>out of stock</g:availability>
-      <g:price>39.90 EUR</g:price>
+      <g:price>33.90 EUR</g:price>
       <g:gtin>5907378519903</g:gtin>
       <g:brand>LaBalancia</g:brand>
       <g:shipping>
