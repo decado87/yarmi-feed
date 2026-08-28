@@ -2290,7 +2290,7 @@ NOHAVICE XS/S – dĺžka 91 cm, šírka pásu 31–40 cm x 2 M/L – dĺžka 92
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
       <g:gtin>5907378500123</g:gtin>
       <g:brand>LaBalancia</g:brand>
