@@ -5510,7 +5510,7 @@ dĺžka rukáva od ramena: 71 cm
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>49.90 EUR</g:price>
       <g:sale_price>39.90 EUR</g:sale_price>
       <g:gtin>5907378520503</g:gtin>
