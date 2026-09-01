@@ -3466,7 +3466,7 @@ dĺžka: 37 cm
         <g:attribute_name>Značka</g:attribute_name>
         <g:attribute_value>LaBalancia</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>69.90 EUR</g:price>
       <g:gtin>5907378509218</g:gtin>
       <g:brand>LaBalancia</g:brand>
