@@ -1268,7 +1268,7 @@ Veľkosť: One Size
         <g:attribute_name>Vyrobené v</g:attribute_name>
         <g:attribute_value>Taliansko</g:attribute_value>
       </g:product_detail>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>39.90 EUR</g:price>
       <g:sale_price>27.90 EUR</g:sale_price>
       <g:identifier_exists>FALSE</g:identifier_exists>
